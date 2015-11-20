@@ -1,0 +1,2 @@
+# samegame
+Flashで作ったさめがめ
